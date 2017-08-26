@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>images/formula_1_f.png</file>
+        <file>images/formula_1_full.png</file>
+        <file>images/formula_1_K.png</file>
+        <file>images/formula_2_f.png</file>
+        <file>images/formula_2_full.png</file>
+        <file>images/formula_2_K.png</file>
+        <file>images/formula_3_f.png</file>
+        <file>images/formula_3_full.png</file>
+        <file>images/formula_3_K.png</file>
+    </qresource>
+    <qresource prefix="/translations">
+        <file>translations/integral_ua.qm</file>
+    </qresource>
+</RCC>
